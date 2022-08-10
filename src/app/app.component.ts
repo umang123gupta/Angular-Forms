@@ -12,6 +12,7 @@ export class AppComponent {
   // onSubmit(form:NgForm){
   //   console.log(form.value);
   // }
+  //bdcbhjcbdhjb
 
   @ViewChild('f') signupForm: NgForm;
   onSubmit() {
